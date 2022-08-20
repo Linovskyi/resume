@@ -1,0 +1,249 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    background-color:#f5f7fa;  
+}
+.main
+{
+    background-color: #ffff;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+.maincontent
+{
+    background-color: #ffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 120px;  
+  
+}
+
+
+/* about style */
+.about
+{
+    margin-bottom: 40px;
+}
+.aboutposition,
+.iron
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin-bottom:  20px;
+}
+.aboutname
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+.aboutdescription
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+}
+
+
+/* project style */
+.projects
+{
+   margin-bottom: 50px;
+}
+.projectslist
+{
+    padding: 0;
+    margin-left: 15px ;
+}
+.title
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.projectitem
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.projetlinck,
+.linck
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.projetlinck
+{
+    margin-left: 10px;
+}
+.brecket
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+
+/* Work slyle */
+.work
+{
+ margin-bottom: 50px;
+}
+.workposition
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.company
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+    margin-left: 5px;
+}
+.period
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+.line
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+.worklist
+{
+    padding: 0;
+    margin-left: 17px;
+}
+.worklistitem
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+/* Education style */
+.university
+{
+    margin-bottom: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+.specialty
+{
+    margin-bottom: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+
+/* sidebar */
+.sidebar
+{
+    background-color: #1E2939;
+    padding-top:  40px;
+    /* margin-left: 40px; */
+    width: 370px;
+}
+.img
+{
+    width: 370px;
+    margin-bottom: 50px;
+}
+.contacts,
+.techskills,
+.softskills
+{
+    margin-left: 40px;
+    margin-top:50px;
+}
+.sidebartitle
+{
+    color: #ffff;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+      
+}
+.contacttype
+{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffff;
+    margin-right: 10px;
+}
+.contactlinck
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+.liststyle
+{
+    color: #fff;
+    padding: 0;
+    margin-left: 17px;
+}
+.dotlistitem
+{
+    color: #FB6D3A;
+}
+.listitem
+{
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
